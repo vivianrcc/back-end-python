@@ -1,6 +1,11 @@
 # WoMakersCode - Bootcamp Python Backend para Iniciantes
 
+# Lista de Participantes
+
+* Vivian Rosana Carrillo Cuentas
+
 ## Visão Geral
+
 Bem vinda ao repositório do curso Bootcamp Python Backend para Iniciantes.
 Aqui vamos manter os exemplos utilizados durante as aulas.
 Você poderá rodar os exemplos em sua própria máquina após ter seguido a configuração de ambiente proposta em aula.
